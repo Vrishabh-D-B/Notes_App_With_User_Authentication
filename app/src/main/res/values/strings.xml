@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="new_user_signup_here">New User ? Signup Here</string>
+    <string name="new_user">New User</string>
+    <string name="nice_to_have_you_here">Nice to have you here</string>
+    <string name="signup">Signup</string>
+    <string name="want_to_login">Want to login ?</string>
+    <string name="let_me_help_you">Let me help you</string>
+    <string name="enter_registered_email">Enter Registered Email</string>
+    <string name="recover">Recover</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="enter_you_note_title_here">Enter you note title here</string>
+    <string name="welcome_back_to_notes_app">Welcome Back To Notes App</string>
+    <string name="login_to_continue">Login to continue</string>
+</resources>
